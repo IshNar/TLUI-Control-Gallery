@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "id": "circular-gauge",
+      "version": "1.0.0",
+      "name": "원형 아크 게이지",
+      "author": "TLUI Community",
+      "license": "MIT",
+      "runtime": "tlui-custom-v1",
+      "sha256": "fa6d07f1036ac3a2817bbac309046f748f3662a584a47e93095028e7ce1d7639",
+      "url": "https://ishnar.github.io/TLUI-Control-Gallery/packages/circular-gauge/1.0.0.tluicontrol"
+    },
+    {
+      "id": "pid-panel",
+      "version": "1.0.0",
+      "name": "PID 제어 패널",
+      "author": "TLUI Community",
+      "license": "MIT",
+      "runtime": "tlui-custom-v1",
+      "sha256": "d4f1d21d84988b8227512d76df8b2aea21d0f6463a6c4d157867265c37ae43ee",
+      "url": "https://ishnar.github.io/TLUI-Control-Gallery/packages/pid-panel/1.0.0.tluicontrol"
+    }
+  ]
+}
